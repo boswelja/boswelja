@@ -55,4 +55,4 @@ If you're interested, please reach out to me! You cen find my contact info below
 - Reddit: [boswelja](https://www.reddit.com/user/boswelja)
 - LinkedIn: [Jack Boswell](https://www.linkedin.com/in/jack-boswell-6619931ba/)
 
-### See my pinned repos below to see some of my favourite projects!
+### See my pinned repos below for some of my favourite projects!
