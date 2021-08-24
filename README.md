@@ -1,8 +1,6 @@
 ## Hey, I'm Jack! 👋
 
-I've been hard at work learning all there is to know about Modern Android Development and applying what I can to my own projects!
-I'm currently on the hunt for a position at a company that can fully utilise my skills, and allow me to learn & grow more.
-If you're interested, please reach out to me! You cen find my contact info below.
+I'm at the start of my career as an Android Developer, and am always on the lookout to polish the skills I have, as well as learn something new!
 
 ### What I can do 💪
 
@@ -13,7 +11,6 @@ If you're interested, please reach out to me! You cen find my contact info below
 * C#
 * JavaScript
 * TypeScript
-* HTML & CSS
 * Python
 
 #### Technologies ⚙️
@@ -30,7 +27,7 @@ If you're interested, please reach out to me! You cen find my contact info below
 
 * ML Kit
 
-### What I'd like to do 
+### What I'd like to do 🔮
 
 #### Languages 🔠
 
@@ -40,7 +37,6 @@ If you're interested, please reach out to me! You cen find my contact info below
 
 #### Technologies ⚙️
 
-* Flutter
 * Android TV
 * iOS Devices
 * Windows Devices
