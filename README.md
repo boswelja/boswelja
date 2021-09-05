@@ -26,6 +26,7 @@ I'm at the start of my career as an Android Developer, and am always on the look
 #### Technologies ⚙️
 
 * ML Kit
+* Kotlin Multiplatform
 
 ### What I'd like to do 🔮
 
