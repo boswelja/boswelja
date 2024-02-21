@@ -44,8 +44,7 @@ I'm at the start of my career as an Android Developer, and am always on the look
 
 ### How to reach me 📥
 
-- Discord: boswelja#9614
+- Discord: boswelja
 - Email: [boswelja@outlook.com](mailto:boswelja@outlook.com)
-- Reddit: [boswelja](https://www.reddit.com/user/boswelja)
 
 ### See my pinned repos below for some of my favourite projects!
