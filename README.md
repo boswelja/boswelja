@@ -23,22 +23,25 @@ I'm at the start of my career as an Android Developer, and am always on the look
 
 ### What I'm currently learning 🧠
 
+#### Languages 🔠
+
+* Rust
+
 #### Technologies ⚙️
 
-* ML Kit
-* PyTorch
+* iOS Devices
 
 ### What I'd like to do 🔮
 
 #### Languages 🔠
 
-* Rust
 * Swift
 
 #### Technologies ⚙️
 
+* ML Kit
+* PyTorch
 * Android TV
-* iOS Devices
 * Windows Devices
 * TensorFlow
 
