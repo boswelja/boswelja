@@ -29,7 +29,7 @@ I'm at the start of my career as an Android Developer, and am always on the look
 
 #### Technologies ⚙️
 
-* iOS Devices
+* Machine Learning with Burn
 
 ### What I'd like to do 🔮
 
@@ -39,11 +39,9 @@ I'm at the start of my career as an Android Developer, and am always on the look
 
 #### Technologies ⚙️
 
-* ML Kit
-* PyTorch
 * Android TV
+* iOS Devices
 * Windows Devices
-* TensorFlow
 
 ### How to reach me 📥
 
